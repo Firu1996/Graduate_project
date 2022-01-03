@@ -1,0 +1,19 @@
+body {
+    background-color: #343a40;
+}
+
+.card {
+    border: solid 4px #ffc107;
+}
+
+.iot-logo {
+    height: 30px;
+}
+
+footer h3 {
+    font-size: 14px;
+}
+
+th {
+    white-space: nowrap;
+}
